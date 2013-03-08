@@ -2,9 +2,9 @@
 This repo is just for my records of learning angular-js.
 
 ### Sample
-1. Scaffolding
 
-Creating and updating simple object with rails's scaffold like interface.
+1. Scaffolding
+ * Creating and updating simple object with rails's scaffold like interface.
 
 ### Trying Sample
 Download the sample.
