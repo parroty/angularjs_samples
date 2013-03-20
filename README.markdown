@@ -23,3 +23,7 @@ Launch web server.
 Open the url with the browser
 
 	$ open http://localhost:4567
+
+### Screenshot
+
+![htmlimage](http://parroty00.files.wordpress.com/2013/03/angular-sample.png?w=450&h=312)
